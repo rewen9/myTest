@@ -12,9 +12,9 @@ def sendEmail(email, name):
     TO = "nikolas91@mail.ru"
     text = "Python 3.4 rules them all!"
     port_admin = 587
-    host_admin = "mail.hosting.reg.ru"
-    from_admin = "admin@alomya.ru"
-    pswd_admin = "c_BQx1gG"
+    host_admin = ""
+    from_admin = ""
+    pswd_admin = ""
 
     FROM = "sanntriss@gmail.com"
 
