@@ -13,10 +13,10 @@ def sendEmail(email, name):
     text = "Python 3.4 rules them all!"
     port_admin = 587
     host_admin = "mail.hosting.reg.ru"
-    from_admin = ""
-    pswd_admin = ""
+    from_admin = "admin@alomya.ru"
+    pswd_admin = "c_BQx1gG"
 
-    FROM = ""
+    FROM = "sanntriss@gmail.com"
 
     BODY = "\r\n".join((
         "From: %s" % from_admin,
